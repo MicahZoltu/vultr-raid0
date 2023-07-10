@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 # I know that Vultr runs startup scripts only once upon server installation.
 # But still added this simple protection to be sure that your servers won't get wiped upon reboot.
